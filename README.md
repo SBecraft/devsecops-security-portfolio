@@ -36,12 +36,14 @@ for any remaining findings.
 
 ## Repository Structure
 
+```text
 devsecops-portfolio/
 ├── angular-world-map-country-data/
 │   ├── vulnerability-report.docx
 │   └── scans/
 │       ├── before/
 │       └── after/
+```
 
 
 ## License
