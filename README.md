@@ -38,7 +38,8 @@ for any remaining findings.
 
 ```text
 devsecops-portfolio/
-├── assessment-name/
+├── project-name/
+│   ├── FINDINGS-SUMMARY.md
 │   ├── vulnerability-report.docx
 │   └── scans/
 │       ├── before/
