@@ -29,7 +29,7 @@ for any remaining findings.
 
 | Project | Type | Critical | High | Moderate | Remediated | Report |
 |---|---|---|---|---|---|---|
-| [angular-world-map-country-data](https://github.com/SBecraft/angular-world-map-country-data) | Angular Web App | 0 | 16 | 22 | 31/38 | [View](angular-world-map-country-data/) |
+| [angular-app-world-map](https://github.com/SBecraft/angular-world-map-country-data) | Angular Web App | 0 | 16 | 22 | 31/38 | [View](angular-world-map-country-data/) |
 
 *Additional assessments will be added as projects are completed.*
 
