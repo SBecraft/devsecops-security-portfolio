@@ -37,10 +37,11 @@ for any remaining findings.
 ## Repository Structure
 
 ```text
-devsecops-portfolio/
+devsecops-security-portfolio/
 ├── project-name/
 │   ├── FINDINGS-SUMMARY.md
 │   ├── vulnerability-report.docx
+│   ├── vulnerability-report.md
 │   └── scans/
 │       ├── before/
 │       └── after/
