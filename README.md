@@ -29,7 +29,7 @@ for any remaining findings.
 
 | Project | Type | Critical | High | Moderate | Remediated | Report |
 |---|---|---|---|---|---|---|
-| [world-map-country-data](https://github.com/SBecraft/angular-world-map-country-data) | Angular Web App | 0 | 16 | 22 | 31/38 | [View](angular-world-map-country-data/) |
+| [world-map-country-data](https://github.com/SBecraft/angular-world-map-country-data) | Angular Web App | 0 | 16 | 22 | 31/38 | [View](angular-app-world-map/vulnerability-report-WorldMap.md) |
 
 *Additional assessments will be added as projects are completed.*
 
