@@ -42,6 +42,7 @@ devsecops-security-portfolio/
 │   ├── FINDINGS-SUMMARY.md
 │   ├── vulnerability-report.docx
 │   ├── vulnerability-report.md
+│   ├── remediation/
 │   └── scans/
 │       ├── before/
 │       └── after/
