@@ -38,7 +38,7 @@ for any remaining findings.
 
 ```text
 devsecops-portfolio/
-├── angular-world-map-country-data/
+├── assessment-name/
 │   ├── vulnerability-report.docx
 │   └── scans/
 │       ├── before/
